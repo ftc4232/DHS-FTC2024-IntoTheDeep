@@ -1,5 +1,7 @@
 # DHS 2024-25 FTC Robot Code
 
+This project is a fork of the official FTC RobotController project
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the INTO THE DEEP (2024-2025) competition season.
